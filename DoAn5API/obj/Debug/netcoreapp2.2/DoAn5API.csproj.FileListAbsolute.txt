@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\bin\Debug\netcoreapp2.2\DoAn5API.deps.json
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\bin\Debug\netcoreapp2.2\DoAn5API.runtimeconfig.json
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\bin\Debug\netcoreapp2.2\DoAn5API.runtimeconfig.dev.json
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\bin\Debug\netcoreapp2.2\DoAn5API.dll
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\bin\Debug\netcoreapp2.2\DoAn5API.pdb
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.RazorAssemblyInfo.cache
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.RazorAssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.RazorTargetAssemblyInfo.cache
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.dll
+C:\Users\USER\OneDrive\Documents\Angular\DoAn5FE\doan5api\obj\Debug\netcoreapp2.2\DoAn5API.pdb
